@@ -7,6 +7,7 @@ error handling, and is dockerized for easy deployment.
 Dependencies
 
 
+
 express: 4.18.2  
 
 jsonwebtoken: 9.0.2  
