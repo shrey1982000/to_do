@@ -20,12 +20,12 @@ cors: 2.8.5
 
 dotenv: 16.3.1 
 
-Development
+**Development**
 
 nodemon: 3.1.0 
 
 
-Clone:
+**Clone:**
 
 git clone https://github.com/shrey1982000/to_do.git
 
@@ -33,37 +33,37 @@ cd to_do
 
 
 
-Dependencies:
+**Dependencies:**
 
 npm install
 
 
 
-Config:
+**Config:**
 
 cp .env.example .env
 
 
 
-Migrations:
+**Migrations:**
 
 npx prisma migrate dev --name init
 
 
 
-Start server:
+**Start server:**
 
 npm run dev
 
 
 
-Docker Deployment
+**Docker Deployment**
 
 docker-compose up -d --build
 
 
 
-API Endpoints
+**API Endpoints**
 
 
 POST	/auth/signup	Register new user	No
