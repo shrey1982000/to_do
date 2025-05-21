@@ -4,7 +4,7 @@ registration/login, protected CRUD operations required for todos,
 and supports both SQLite and PostgreSQL databases. The API includes proper validation,
 error handling, and is dockerized for easy deployment. 
 
-Dependencies
+**Dependencies**
 
 
 
