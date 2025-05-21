@@ -1,7 +1,7 @@
 This is a To-do Web application built with Node.js and Express
 it has JWT authentication, and uses Prisma as ORM. It features user
-registration/login, protected CRUD operations required for todos, 
-and supports both SQLite and PostgreSQL databases. The API includes proper validation,
+registration/login, and has protected CRUD operations required for todos, 
+it also supports both SQLite and PostgreSQL databases. The API includes proper validation,
 error handling, and is dockerized for easy deployment. 
 
 **Dependencies**
