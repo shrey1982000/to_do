@@ -66,10 +66,10 @@ docker-compose up -d --build
 **API Endpoints**
 
 
-POST	/auth/signup	Register new user	No
+POST	/auth/signup	Registers new user	No auth req
 
-POST	/auth/login	Login and get JWT token	No
+POST	/auth/login	Logs in and gets JWT token	No auth req
 
-GET	/todos	Get all todos	Yes
+GET	/todos	Gets all todos	Auth req
 
-POST	/todos	Create new todo	Yes
+POST	/todos	Creates new todo	Auth req
