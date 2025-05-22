@@ -27,9 +27,7 @@ nodemon: 3.1.0
 
 **Clone:**
 
-git clone https://github.com/shrey1982000/to_do.git
-
-cd to_do
+clone this repo
 
 
 
